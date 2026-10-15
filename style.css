@@ -1,0 +1,59 @@
+body{
+    background-color: darkgrey;
+    margin: 0px;
+}
+
+h1{
+    background-color: cadetblue;
+    position: sticky;
+    top: 2px;
+}
+.main{
+    width: 300px;
+    height: 300px;
+    border: solid rgb(7, 6, 7);background-color: blueviolet;
+    margin: auto;
+    margin-top: 200px;
+    position: static;
+}
+.b1{
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    margin: 20px;
+}
+
+.b2{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(181, 113, 113);
+    margin: 20px;
+}
+.b3{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(163, 128, 128);
+    margin: 20px;
+    
+}
+
+.b4{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(4, 16, 32);
+    margin: 20px;
+    position: absolute;
+    top: 20px;
+}
+
+.amazon{
+    position:relative;
+    top: 0px;
+
+}
+.buy{
+position: absolute;
+top: 0px;right: 0px;
+
+    
+}
